@@ -4,7 +4,7 @@ A simple mobile app linking to the GitHub repository and HNG resources.
 
 ## Links
 - [GitHub Repository](https://github.com/Idighekere/HNG-Mobile-developments)
-- [HNG Hire Mobile Developers](https://hng.tech/hire/react-native-developers)
+- [HNG Hire React Native Developers](https://hng.tech/hire/react-native-developers)
 - [Telex](https://telex.im)
 - [Delve](https://delve.fun)
 

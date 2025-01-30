@@ -18,7 +18,7 @@ export default function Index() {
         {/* Image Container */}
         <View style={styles.imageContainer}>
           <Image
-            source={require('../../assets/images/undraw_hello.png')}
+            source={require('../assets/images/undraw_hello.png')}
             style={styles.image}
           />
         </View>
